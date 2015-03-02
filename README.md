@@ -16,7 +16,7 @@ Hopefully this demonstrates an easy-to-use technique that you can leverage in yo
 
 
 Read more here:
-http://www.soliantconsulting.com/blog/2014/11/filemaker-and-javascript-ajax-post
+http://www.soliantconsulting.com/blog/2015/03/filemaker-hamburger-menu
 
 Video walk through:
-http://youtu.be/B_pArX3W61U
+Coming soon
